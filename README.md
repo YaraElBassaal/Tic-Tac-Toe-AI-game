@@ -1,14 +1,16 @@
 # Tic Tac Toe Game with Python AI
 
+![xo](https://github.com/YaraElBassaal/Tic-Tac-Toe-AI-game/assets/124288726/119c4c42-1d0e-48ef-88dd-a4361705df35)
+
 ## Overview
 
-This Tic Tac Toe game is implemented in Python and features an AI opponent using the Minimax algorithm. Players can switch between player vs. player (PVP) mode and player vs. AI mode, with the AI offering different difficulty levels.
+This Tic Tac Toe game is implemented in Python and features an AI opponent using the Minimax algorithm. Players can switch between player vs. player (P vs P) mode and player vs AI mode, with the AI offering different difficulty levels.
 
 ## Game Instructions
 
-- **Press 'g'**: Change game mode (PVP or AI)
-- **Press '0'**: Change AI level to 0 (random moves)
-- **Press '1'**: Change AI level to 1 (impossible by Minimax algorithm)
+- **Press 'g'**: Change game mode (P vs P or P vs AI)
+- **Press '0'**: Change AI level to 0 (random moves) Easy
+- **Press '1'**: Change AI level to 1 (impossible to win by Minimax algorithm) Hard
 - **Press 'r'**: Restart the game
 
 ## Features
@@ -49,13 +51,6 @@ This Tic Tac Toe game is implemented in Python and features an AI opponent using
     ```
 2. Use the provided keys to change game modes, AI levels, and restart the game.
 
-## Contributing
-
-We welcome contributions! Please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
